@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @haant (Denas Zelvys)
-- 👀 I’m interested in Science, Computer Science, Programming, Politics
-- 🌱 I’m currently learning Python on my T Level College Course
 - 📫 Reach me on my Twitter @haant05
 
 <!---
