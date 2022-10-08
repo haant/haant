@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @haant (Denas Zelvys)
-- 📫 Reach me on my Twitter @haant05
+- 👋 Hi, I’m @haant (Denas Zelvys) and welcome to my GitHub!
+- 📧 Lets connect on LinkedIn at https://www.linkedin.com/in/denaszelvys/
 
 <!---
 haant/haant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
